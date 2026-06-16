@@ -1,3 +1,5 @@
+> **⚠️ NOTE: This repository has been archived. This module has been successfully integrated into a complete 32-bit RISC-V CPU. Please see the master project here: [RV32I-Single-Cycle-Core](https://github.com/KnightRider-hash/RV32I-Single-Cycle-Core)**
+
 # RISC-V Control Unit (Verilog)  #
 This repository contains a Verilog implementation of a Main Control Unit and ALU Control Unit designed for a single-cycle RISC-V processor.
 The module decodes incoming instruction fields (opcode, funct3, funct7) and generates the necessary control signals to drive the processor's datapath, including the ALU, data memory, branch logic, and register file.
